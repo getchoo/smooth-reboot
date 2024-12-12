@@ -1,0 +1,16 @@
+{
+  "text.autoconfig.smoothboot.title": "Ajustes de Thread",
+  "text.autoconfig.smoothboot.option.threadCount": "Contagem de Thread",
+  "text.autoconfig.smoothboot.option.threadCount.bootstrap": "Contagem de threads do Bootstrap Worker",
+  "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[0]": "Observação: Sabe-se que o aumento diminui o desempenho.",
+  "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[1]": "Melhor deixar em 1.",
+  "text.autoconfig.smoothboot.option.threadCount.main": "Contagem de thread do Main Worker",
+  "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[0]": "Esse valor afeta muito o tempo de carregamento.",
+  "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[1]": "Também pode afetar o desempenho no jogo.",
+  "text.autoconfig.smoothboot.option.threadPriority": "Prioridade da Thread",
+  "text.autoconfig.smoothboot.option.threadPriority.game": "Prioridade da Thread do Jogo",
+  "text.autoconfig.smoothboot.option.threadPriority.bootstrap": "Prioridade do Bootstrap Worker",
+  "text.autoconfig.smoothboot.option.threadPriority.main": "Prioridade do Main Worker",
+  "text.autoconfig.smoothboot.option.threadPriority.io": "Prioridade do IO Worker",
+  "text.autoconfig.smoothboot.option.threadPriority.integratedServer": "Prioridade da Thread do Servidor Integrado"
+}
